@@ -4,5 +4,7 @@ public class Test{
 	System.out.println("Hello " + name);
 	int age = 20;
 	System.out.println("You are " + age + " years old");
+	System.out.println("You are " + age + " years old");
+	System.out.println("You are " + age + " years old");
 	}
 }
