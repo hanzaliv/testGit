@@ -7,5 +7,6 @@ public class Test{
 	System.out.println("Your name is " + name + " and you are " + age + " years old");
 	System.out.println("You are " + age + " years old");
 	System.out.println("You are " + age + " years old");
+	 System.out.println("You are " + age + " years old");
 	}
 }
